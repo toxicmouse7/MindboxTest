@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Figures", "Mindbox.Figures\Mindbox.Figures.csproj", "{E292F63B-1029-4CE1-B47A-75B04C66F8AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Tests", "Mindbox.Tests\Mindbox.Tests.csproj", "{C761687A-25D6-4DEE-AB56-4360718D768C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{D7C750E8-F839-4C38-98C1-A19AD44A4778}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E292F63B-1029-4CE1-B47A-75B04C66F8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E292F63B-1029-4CE1-B47A-75B04C66F8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E292F63B-1029-4CE1-B47A-75B04C66F8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E292F63B-1029-4CE1-B47A-75B04C66F8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C761687A-25D6-4DEE-AB56-4360718D768C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C761687A-25D6-4DEE-AB56-4360718D768C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C761687A-25D6-4DEE-AB56-4360718D768C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C761687A-25D6-4DEE-AB56-4360718D768C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
